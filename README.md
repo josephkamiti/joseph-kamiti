@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Kamiti 👋
 
-Forensic Chemist | Crime Scene Investigator | AI & Digital Forensics Enthusiast | Investigations 
+Forensic Chemist | Crime Scene Investigator | AI & Digital Forensics Enthusiast | Investigations | Motor vehicle verification
 
 Currently working at the National Forensic Laboratory, Directorate of Criminal Investigations (DCI) Kenya.
 
@@ -21,7 +21,7 @@ Currently working at the National Forensic Laboratory, Directorate of Criminal I
 
 ## 📫 How to reach me
 - [GitHub](https://github.com/josephkamiti)
-- [LinkedIn](www.linkedin.com/in/motorlab-kenya-308682171) *(add/update link if available)*
+- [LinkedIn](www.linkedin.com/in/motorlab-kenya-308682171) 
 
 ---
 
