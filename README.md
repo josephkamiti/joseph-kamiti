@@ -9,7 +9,7 @@ Currently working at the National Forensic Laboratory, Directorate of Criminal I
 - Crime Scene Investigation: Field experience in evidence collection and analysis.
 - AI & Digital Forensics: Enthusiastic about generative artificial intrlligence applications and digital forensics.
 - Chemical Mapping & Explosives Analysis: Trained in chemical mapping and explosives investigations.
-- Cybersecurity in Nuclear Facilities**: Certified by the World Institute of Nuclear Security (WINS).
+- Cybersecurity in Nuclear Facilities: Certified by the World Institute of Nuclear Security (WINS).
 - Microsoft Excel: Proficient in data analysis and reporting for forensic science.
 - Continuous Learning: Passionate about training, research, and advancing forensic science with technology.
 
