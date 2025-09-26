@@ -1,0 +1,12 @@
+walker secret_keeper {
+    can check(num) {
+        if num == 8 { 
+            report "You Found the Secret number!"; 
+        }
+        else { 
+            report "Nope, try again."; 
+        }
+    }
+}
+
+spawn here ++> secret_keeper.check(8);
